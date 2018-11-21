@@ -1,1 +1,4 @@
-/bin/
+*.ndx
+*.nxj
+*.class
+/.git/
